@@ -16,13 +16,13 @@
 
    **Используемые методики анализа данных**: исследовательский анализ, анализ воронки событий, анализ результатов A/A/B-теста, статистический анализ.
 
-   **Библиотеки**:*pandas, numpy,matplotlib, seaborn, scipy, plotly, math, datetime*
+   **Библиотеки**:*pandas, numpy, matplotlib, seaborn, scipy, plotly, math, datetime*
  
 4. **marketing_research** - Маркетинговое исследование приложения Procrastinate Pro+.
    
    **Используемые методики анализа данных**: исследовательский анализ данных, когортный анализ, анализ бизнес-показателей (LTV, ROI, удержание,конверсия).
    
-   **Библиотеки**:*pandas, numpy, matplotlib, seaborn,datetime*
+   **Библиотеки**:*pandas, numpy, matplotlib, seaborn, datetime*
    
 5. **moscow_places** - Анализ рынка заведений общественного питания Москвы.
 
